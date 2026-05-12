@@ -1,6 +1,6 @@
 # Nistula Messaging Integration & AI Webhook
 
-A robust, production-ready backend system designed to normalize inbound guest messages across multiple channels, classify them using the Claude 3.5 Sonnet LLM, and generate context-aware drafted responses. This system utilizes strict mathematical confidence scoring to enforce property rules, legal compliance, and safety protocols.
+A robust, production-ready backend system designed to normalize inbound guest messages across multiple channels, classify them using the Claude-Sonnet-4-20250514 LLM, and generate context-aware drafted responses. This system utilizes strict mathematical confidence scoring to enforce property rules, legal compliance, and safety protocols.
 
 ---
 
