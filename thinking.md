@@ -4,7 +4,7 @@ Question A — The Immediate Response
 Why: At 3 AM during a high-stress moment, AI should not argue, troubleshoot, or definitively promise a refund. The priority is empathy, validating the stress, and providing a concrete next step (caretaker SLA).
 
 Question B — The System Design
-When the webhook receives this message, it is classified as a complaint with a score < 0.60, triggering an escalate action.
+When the webhook receives this message, it is classified as a complaint with a score 0.41 - 0.59, triggering an escalate action.
 
 Trigger: The system hits an integration (like Twilio or PagerDuty) to call/SMS the on-call caretaker immediately.
 
